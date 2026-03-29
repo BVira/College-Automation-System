@@ -12,7 +12,3 @@ A robust desktop application built in Python to streamline college administrativ
 - **GUI Framework:** Tkinter
 - **Database:** SQLite (or MySQL)
 - **Libraries:** Pandas (for report generation), Matplotlib (for performance charts)
-
-### 📸 Preview
-![App Screenshot](path/to/your/screenshot.png)
-*(Tip: Replace this with a real screenshot of your app's main dashboard)*
